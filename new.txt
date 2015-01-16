@@ -1,1 +1,2 @@
 File for the new branch
+Change before creating new branch for stashed changes
